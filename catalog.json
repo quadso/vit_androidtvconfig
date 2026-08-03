@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-08-03T08:13:21Z",
+  "updated": "2026-08-03T08:42:11Z",
   "streaming": {
     "playbackUrl": "https://vod.kringvarp.fo/redirect/{mode}/_definst_/smil:smil/{mode}/{media}.smil?type=m3u8",
     "thumbnailsUrl": "https://vod.kringvarp.fo:8081/{mode}/{created}/thumbs/{media}/{media}_thumbs.vtt"
@@ -2037,6 +2037,65 @@
           "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/tt26.png",
           "order": 20,
           "published": "2023-04-11T11:30:00+01:00"
+        }
+      ]
+    },
+    {
+      "id": "annika-i-dimun",
+      "title": "Annika í Dímun",
+      "order": 11,
+      "mode": "audio",
+      "kind": "series",
+      "episodes": [
+        {
+          "id": "annika-i-dimun-109237",
+          "title": "Annika í Dímun, 1. partur",
+          "media": "1372973",
+          "created": "2020",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/annika-i-dimun?sid=109237",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/dimun.jpg",
+          "order": 1,
+          "published": "2020-05-24T22:45:00+01:00"
+        },
+        {
+          "id": "annika-i-dimun-109290",
+          "title": "Annika í Dímun, 2. partur",
+          "media": "1373004",
+          "created": "2020",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/annika-i-dimun?sid=109290",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/dimun_0.jpg",
+          "order": 2,
+          "published": "2020-05-25T21:45:00+01:00"
+        },
+        {
+          "id": "annika-i-dimun-109294",
+          "title": "Annika í Dímun, 3. partur",
+          "media": "1373779",
+          "created": "2020",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/annika-i-dimun?sid=109294",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/dimun_1.jpg",
+          "order": 3,
+          "published": "2020-05-26T20:00:00+01:00"
+        },
+        {
+          "id": "annika-i-dimun-109295",
+          "title": "Annika í Dímun, 4. partur",
+          "media": "1373781",
+          "created": "2020",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/annika-i-dimun?sid=109295",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/dimun_2.jpg",
+          "order": 4,
+          "published": "2020-05-27T20:00:00+01:00"
+        },
+        {
+          "id": "annika-i-dimun-109471",
+          "title": "Annika í Dímun, 5. partur",
+          "media": "1373783",
+          "created": "2020",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/annika-i-dimun?sid=109471",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/dimun_3.jpg",
+          "order": 5,
+          "published": "2020-05-29T07:50:00+01:00"
         }
       ]
     }
