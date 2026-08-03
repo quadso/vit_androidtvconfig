@@ -2513,25 +2513,6 @@
       ]
     },
     {
-      "id": "handbok-fyri-superhetjur",
-      "title": "Hondbók fyri superhetjur",
-      "order": 19,
-      "mode": "audio",
-      "kind": "series",
-      "episodes": [
-        {
-          "id": "handbok-fyri-superhetjur-104581",
-          "title": "Handbók fyri superhetjur 2. partur",
-          "media": "1349559",
-          "created": "2020",
-          "sourcePage": "https://kvf.fo/vit/sending/uv/handbok-fyri-superhetjur?sid=104581",
-          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/handbok_fyri_superhetjur_mynd_1_0.jpg",
-          "order": 1,
-          "published": "2025-09-29T20:00:00+01:00"
-        }
-      ]
-    },
-    {
       "id": "anna-frank-0",
       "title": "Anna frank",
       "order": 20,
