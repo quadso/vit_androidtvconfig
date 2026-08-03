@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-08-03T07:00:48Z",
+  "updated": "2026-08-03T07:41:36Z",
   "streaming": {
     "playbackUrl": "https://vod.kringvarp.fo/redirect/{mode}/_definst_/smil:smil/{mode}/{media}.smil?type=m3u8",
     "thumbnailsUrl": "https://vod.kringvarp.fo:8081/{mode}/{created}/thumbs/{media}/{media}_thumbs.vtt"
@@ -1813,13 +1813,13 @@
       ]
     },
     {
-      "id": "klintrimus-og-hini-dyrini-i-valbakkaskoginum",
+      "id": "klintrimus",
       "title": "Klintrimús og hini dýrini i valbakkaskóginum",
       "order": 9,
       "mode": "video",
       "episodes": [
         {
-          "id": "klintrimus-og-hini-dyrini-i-valbakkaskoginum-185203",
+          "id": "klintrimus-185203",
           "title": "Klintrimús og hini dýrini í Vallbakkaskóginum",
           "media": "BAR00185_Klintrimus_og_hini_dyrini_i_Valbakkaskoginum_1080_Stereo",
           "created": "2024",
