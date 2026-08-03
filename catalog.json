@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-08-03T11:11:30Z",
+  "updated": "2026-08-03T18:37:48Z",
   "streaming": {
     "playbackUrl": "https://vod.kringvarp.fo/redirect/{mode}/_definst_/smil:smil/{mode}/{media}.smil?type=m3u8",
     "thumbnailsUrl": "https://vod.kringvarp.fo:8081/{mode}/{created}/thumbs/{media}/{media}_thumbs.vtt"
@@ -2274,6 +2274,192 @@
           "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/dimun_3.jpg",
           "order": 5,
           "published": "2020-05-29T07:50:00+01:00"
+        }
+      ]
+    },
+    {
+      "id": "nyggju-klaedir-keisarans",
+      "title": "Nýggju klæðir keisarans",
+      "order": 14,
+      "mode": "audio",
+      "kind": "series",
+      "episodes": [
+        {
+          "id": "nyggju-klaedir-keisarans-108391",
+          "title": "Nýggju klæðir keisarans",
+          "media": "1368805",
+          "created": "2020",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/nyggju-klaedir-keisarans?sid=108391",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/ha-kejseren-600x394_0.jpg",
+          "order": 1,
+          "published": "2020-05-05T20:00:00+01:00"
+        }
+      ]
+    },
+    {
+      "id": "svinadrongurin",
+      "title": "Svínadrongurin",
+      "order": 15,
+      "mode": "audio",
+      "kind": "series",
+      "episodes": [
+        {
+          "id": "svinadrongurin-55940",
+          "title": "Svínadrongurin",
+          "media": "1058982",
+          "created": "2020",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/svinadrongurin?sid=55940",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/svinadrongurin_mynd.jpg",
+          "order": 1,
+          "published": "2020-05-04T20:00:00+01:00"
+        }
+      ]
+    },
+    {
+      "id": "snjohvita",
+      "title": "Snjóhvíta",
+      "order": 16,
+      "mode": "audio",
+      "kind": "series",
+      "episodes": [
+        {
+          "id": "snjohvita-6887",
+          "title": "Snjóhvíta",
+          "media": "10592",
+          "created": "2013",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/snjohvita?sid=6887",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/snjohvita.jpg",
+          "order": 1,
+          "published": "2012-12-11T16:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "filur-og-maskinurnar",
+      "title": "Fílur og maskinunar",
+      "order": 17,
+      "mode": "video",
+      "kind": "series",
+      "episodes": [
+        {
+          "id": "filur-og-maskinurnar-179782",
+          "title": "Kavafresari",
+          "media": "Filur_og_maskinurnar_EP13",
+          "created": "2024",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/filur-og-maskinurnar?sid=179782",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/filur_og_kavafresari.jpg",
+          "order": 1,
+          "published": "2024-09-03T12:00:00+01:00"
+        },
+        {
+          "id": "filur-og-maskinurnar-179783",
+          "title": "Skíðmaskina",
+          "media": "Filur_og_maskinurnar_EP14",
+          "created": "2024",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/filur-og-maskinurnar?sid=179783",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/filur_og_skymaskina.jpg",
+          "order": 2,
+          "published": "2024-09-03T12:00:00+01:00"
+        },
+        {
+          "id": "filur-og-maskinurnar-179769",
+          "title": "Gravkúgv",
+          "media": "Filur_og_maskinurnar_EP01",
+          "created": "2024",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/filur-og-maskinurnar?sid=179769",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/filur_og_gravkugv.jpg",
+          "order": 3,
+          "published": "2024-09-03T12:00:00+01:00"
+        },
+        {
+          "id": "filur-og-maskinurnar-179771",
+          "title": "Skurðtreskja",
+          "media": "Filur_og_maskinurnar_EP02",
+          "created": "2024",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/filur-og-maskinurnar?sid=179771",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/filur_og_skurdtreskja.jpg",
+          "order": 4,
+          "published": "2024-09-03T12:00:00+01:00"
+        },
+        {
+          "id": "filur-og-maskinurnar-179772",
+          "title": "Brandbilur",
+          "media": "Filur_og_maskinurnar_EP03",
+          "created": "2024",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/filur-og-maskinurnar?sid=179772",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/filur_og_brannbilur.jpg",
+          "order": 5,
+          "published": "2024-09-03T12:00:00+01:00"
+        },
+        {
+          "id": "filur-og-maskinurnar-179773",
+          "title": "Bilknúsari",
+          "media": "Filur_og_maskinurnar_EP04",
+          "created": "2024",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/filur-og-maskinurnar?sid=179773",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/filur_og_bilknusari.jpg",
+          "order": 6,
+          "published": "2024-09-03T12:00:00+01:00"
+        },
+        {
+          "id": "filur-og-maskinurnar-179774",
+          "title": "Skógarmaskina",
+          "media": "Filur_og_maskinurnar_EP05",
+          "created": "2024",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/filur-og-maskinurnar?sid=179774",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/filur_og_skogarmaskinan.jpg",
+          "order": 7,
+          "published": "2024-09-03T12:00:00+01:00"
+        },
+        {
+          "id": "filur-og-maskinurnar-179775",
+          "title": "Timburbilur",
+          "media": "Filur_og_maskinurnar_EP06",
+          "created": "2024",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/filur-og-maskinurnar?sid=179775",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/filur_og_timburbilur.jpg",
+          "order": 8,
+          "published": "2024-09-03T12:00:00+01:00"
+        },
+        {
+          "id": "filur-og-maskinurnar-179776",
+          "title": "Traktorur",
+          "media": "Filur_og_maskinurnar_EP07",
+          "created": "2024",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/filur-og-maskinurnar?sid=179776",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/filur_og_traktorur.jpg",
+          "order": 9,
+          "published": "2024-09-03T12:00:00+01:00"
+        },
+        {
+          "id": "filur-og-maskinurnar-179777",
+          "title": "Fóðurmaskina",
+          "media": "Filur_og_maskinurnar_EP08",
+          "created": "2024",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/filur-og-maskinurnar?sid=179777",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/filur_og_fodurmaskina.jpg",
+          "order": 10,
+          "published": "2024-09-03T12:00:00+01:00"
+        },
+        {
+          "id": "filur-og-maskinurnar-179778",
+          "title": "Ruskbilur",
+          "media": "Filur_og_maskinurnar_EP09",
+          "created": "2024",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/filur-og-maskinurnar?sid=179778",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/filur_og_ruskbilur.jpg",
+          "order": 11,
+          "published": "2024-09-03T12:00:00+01:00"
+        },
+        {
+          "id": "filur-og-maskinurnar-179779",
+          "title": "Dumpari",
+          "media": "Filur_og_maskinurnar_EP10",
+          "created": "2024",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/filur-og-maskinurnar?sid=179779",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/filur_og_dumparin.jpg",
+          "order": 12,
+          "published": "2024-09-03T12:00:00+01:00"
         }
       ]
     }
