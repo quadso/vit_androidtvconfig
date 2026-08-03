@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-08-03T18:37:48Z",
+  "updated": "2026-08-03T18:41:58Z",
   "streaming": {
     "playbackUrl": "https://vod.kringvarp.fo/redirect/{mode}/_definst_/smil:smil/{mode}/{media}.smil?type=m3u8",
     "thumbnailsUrl": "https://vod.kringvarp.fo:8081/{mode}/{created}/thumbs/{media}/{media}_thumbs.vtt"
@@ -2460,6 +2460,182 @@
           "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/filur_og_dumparin.jpg",
           "order": 12,
           "published": "2024-09-03T12:00:00+01:00"
+        }
+      ]
+    },
+    {
+      "id": "tjovafamiljan",
+      "title": "Tjóvafamljan",
+      "order": 18,
+      "mode": "audio",
+      "kind": "series",
+      "episodes": [
+        {
+          "id": "tjovafamiljan-203346",
+          "title": "Tjóvafamiljan og føðingardagskvettið 1.partur",
+          "media": "1791031",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/tjovafamiljan?sid=203346",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/tjovafamiljan_1_partur.jpeg",
+          "order": 1,
+          "published": "2026-02-01T20:00:00+00:00"
+        },
+        {
+          "id": "tjovafamiljan-203340",
+          "title": "Tjóvafamiljan og føðingardagskvettið 2. partur",
+          "media": "1791050",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/tjovafamiljan?sid=203340",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/tjovafamiljan_2._partur.jpeg",
+          "order": 2,
+          "published": "2026-02-02T20:00:00+00:00"
+        },
+        {
+          "id": "tjovafamiljan-203342",
+          "title": "Tjóvafamiljan og føðingardagskvettið 3. partur",
+          "media": "1791067",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/tjovafamiljan?sid=203342",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/tjovafamiljan_3._partur.jpeg",
+          "order": 3,
+          "published": "2026-02-03T20:00:00+00:00"
+        },
+        {
+          "id": "tjovafamiljan-203341",
+          "title": "Tjóvafamiljan og føðingardagskvettið 4. partur",
+          "media": "1791085",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/tjovafamiljan?sid=203341",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/tjovafamiljan_4._partur.jpeg",
+          "order": 4,
+          "published": "2026-02-04T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "handbok-fyri-superhetjur",
+      "title": "Hondbók fyri superhetjur",
+      "order": 19,
+      "mode": "audio",
+      "kind": "series",
+      "episodes": [
+        {
+          "id": "handbok-fyri-superhetjur-104581",
+          "title": "Handbók fyri superhetjur 2. partur",
+          "media": "1349559",
+          "created": "2020",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/handbok-fyri-superhetjur?sid=104581",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/handbok_fyri_superhetjur_mynd_1_0.jpg",
+          "order": 1,
+          "published": "2025-09-29T20:00:00+01:00"
+        }
+      ]
+    },
+    {
+      "id": "anna-frank-0",
+      "title": "Anna frank",
+      "order": 20,
+      "mode": "audio",
+      "kind": "series",
+      "episodes": [
+        {
+          "id": "anna-frank-0-74223",
+          "title": "Anna Frank, 1. partur",
+          "media": "1172977",
+          "created": "2017",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/anna-frank-0?sid=74223",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/anna_frank_forsida.jpg",
+          "order": 1,
+          "published": "2017-11-13T14:51:00+00:00"
+        },
+        {
+          "id": "anna-frank-0-74224",
+          "title": "Anna Frank, 2. partur",
+          "media": "1172979",
+          "created": "2017",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/anna-frank-0?sid=74224",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/anna_frank_forsida.jpg",
+          "order": 2,
+          "published": "2017-11-13T14:52:00+00:00"
+        },
+        {
+          "id": "anna-frank-0-74225",
+          "title": "Anna Frank, 3. partur",
+          "media": "1172988",
+          "created": "2017",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/anna-frank-0?sid=74225",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/anna_frank_forsida.jpg",
+          "order": 3,
+          "published": "2017-11-13T14:53:00+00:00"
+        },
+        {
+          "id": "anna-frank-0-74226",
+          "title": "Anna Frank, 4. partur",
+          "media": "1172990",
+          "created": "2017",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/anna-frank-0?sid=74226",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/anna_frank_forsida.jpg",
+          "order": 4,
+          "published": "2017-11-13T14:54:00+00:00"
+        },
+        {
+          "id": "anna-frank-0-74227",
+          "title": "Anna Frank, 5. partur",
+          "media": "1172991",
+          "created": "2017",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/anna-frank-0?sid=74227",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/anna_frank_forsida.jpg",
+          "order": 5,
+          "published": "2017-11-13T14:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "vitello-fer-i-skula",
+      "title": "Vitello fer í skúla",
+      "order": 21,
+      "mode": "audio",
+      "kind": "series",
+      "episodes": [
+        {
+          "id": "vitello-fer-i-skula-196858",
+          "title": "Vitello fer í skúla 1. partur",
+          "media": "1763345",
+          "created": "2025",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/vitello-fer-i-skula?sid=196858",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/vitello_1._partur_raett.jpg",
+          "order": 1,
+          "published": "2025-09-12T11:20:00+01:00"
+        },
+        {
+          "id": "vitello-fer-i-skula-196860",
+          "title": "Vitello fer í skúla 2. partur",
+          "media": "1763347",
+          "created": "2025",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/vitello-fer-i-skula?sid=196860",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/vitello_2._partur_raett.jpg",
+          "order": 2,
+          "published": "2025-09-12T11:35:00+01:00"
+        },
+        {
+          "id": "vitello-fer-i-skula-196861",
+          "title": "Vitello fer í skúla 3. partur",
+          "media": "1763348",
+          "created": "2025",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/vitello-fer-i-skula?sid=196861",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/vitello_3._partur_raett.jpg",
+          "order": 3,
+          "published": "2025-09-12T11:40:00+01:00"
+        },
+        {
+          "id": "vitello-fer-i-skula-196862",
+          "title": "Vitello fer í skúla 4. partur",
+          "media": "1763349",
+          "created": "2025",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/vitello-fer-i-skula?sid=196862",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/vitello_4._partur_raett.jpg",
+          "order": 4,
+          "published": "2025-09-12T11:45:00+01:00"
         }
       ]
     }
