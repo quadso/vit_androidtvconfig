@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-08-03T07:59:22Z",
+  "updated": "2026-08-03T08:13:21Z",
   "streaming": {
     "playbackUrl": "https://vod.kringvarp.fo/redirect/{mode}/_definst_/smil:smil/{mode}/{media}.smil?type=m3u8",
     "thumbnailsUrl": "https://vod.kringvarp.fo:8081/{mode}/{created}/thumbs/{media}/{media}_thumbs.vtt"
@@ -1829,6 +1829,214 @@
           "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/461801716_1079637470837115_1619596470551421765_n_0.jpg",
           "order": 1,
           "published": "2024-12-24T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "timmy-tid",
+      "title": "Timmy Tíð",
+      "order": 10,
+      "mode": "video",
+      "episodes": [
+        {
+          "id": "timmy-tid-150664",
+          "title": "Timmy er listafólk",
+          "media": "TIM00001_UT308_Timmy_tid_1",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/timmy-tid?sid=150664",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/tim00001_ut308_timmy_tid_1_0008.jpg",
+          "order": 1,
+          "published": "2023-01-01T14:53:00+00:00"
+        },
+        {
+          "id": "timmy-tid-150670",
+          "title": "Timmy dugir ikki at dansa",
+          "media": "TIM00002_UT308_Timmy_tid_2",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/timmy-tid?sid=150670",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/tim00002_ut308_timmy_tid_2_0029.jpg",
+          "order": 2,
+          "published": "2023-01-02T15:13:00+00:00"
+        },
+        {
+          "id": "timmy-tid-150671",
+          "title": "Timmy sigur orsaka",
+          "media": "TIM00003_UT308_Timmy_tid_3",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/timmy-tid?sid=150671",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/tim00003_ut308_timmy_tid_3_0018.jpg",
+          "order": 3,
+          "published": "2023-01-03T15:15:00+00:00"
+        },
+        {
+          "id": "timmy-tid-150668",
+          "title": "Timmy spælir bólt",
+          "media": "TIM00004_UT308_Timmy_tid_4",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/timmy-tid?sid=150668",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/tim00004_ut308_timmy_tid_4_0033.jpg",
+          "order": 4,
+          "published": "2023-01-04T15:12:00+00:00"
+        },
+        {
+          "id": "timmy-tid-150672",
+          "title": "Timmy er stjørnan",
+          "media": "TIM00006_UT308_Timmy_tid_6",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/timmy-tid?sid=150672",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/tim00006_ut308_timmy_tid_6_0047.jpg",
+          "order": 5,
+          "published": "2023-01-05T15:18:00+00:00"
+        },
+        {
+          "id": "timmy-tid-150674",
+          "title": "Timmy vil hava bláu kubbarnar",
+          "media": "TIM00007_UT308_Timmy_tid_7",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/timmy-tid?sid=150674",
+          "image": "https://kvf.fo/sites/default/files/styles/geoblock_overlay/public/tim00007_ut308_timmy_tid_7_0010.jpg",
+          "order": 6,
+          "published": "2023-01-06T15:20:00+00:00"
+        },
+        {
+          "id": "timmy-tid-150675",
+          "title": "Timmy má í bað",
+          "media": "TIM00009_UT308_Timmy_tid_9",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/timmy-tid?sid=150675",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/tim00009_ut308_timmy_tid_9_0053.jpg",
+          "order": 7,
+          "published": "2023-01-07T15:20:00+00:00"
+        },
+        {
+          "id": "timmy-tid-150673",
+          "title": "Timmy á útferð",
+          "media": "TIM00010_UT308_Timmy_tid_10",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/timmy-tid?sid=150673",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/tim00010_ut308_timmy_tid_10_0013.jpg",
+          "order": 8,
+          "published": "2023-01-08T15:20:00+00:00"
+        },
+        {
+          "id": "timmy-tid-150676",
+          "title": "Timmy spælir dukkusjónleik",
+          "media": "TIM00011_UT308_Timmy_tid_11",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/timmy-tid?sid=150676",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/tim00011_ut308_timmy_tid_11_0165.jpg",
+          "order": 9,
+          "published": "2023-01-09T15:21:00+00:00"
+        },
+        {
+          "id": "timmy-tid-150679",
+          "title": "Timmy byggir eina smáttu",
+          "media": "TIM00012_UT308_Timmy_tid_12",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/timmy-tid?sid=150679",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/tim00012_ut308_timmy_tid_12_0060.jpg",
+          "order": 10,
+          "published": "2023-01-16T13:30:00+00:00"
+        },
+        {
+          "id": "timmy-tid-150678",
+          "title": "Maskan hjá Timmy",
+          "media": "TIM00014_UT308_Timmy_tid_14",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/timmy-tid?sid=150678",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/timmytid.png",
+          "order": 11,
+          "published": "2023-01-31T11:30:00+00:00"
+        },
+        {
+          "id": "timmy-tid-150680",
+          "title": "Várblómurnar hjá Timmy",
+          "media": "TIM00015_UT308_Timmy_tid_15",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/timmy-tid?sid=150680",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/tt13.png",
+          "order": 12,
+          "published": "2023-02-07T11:30:00+00:00"
+        },
+        {
+          "id": "timmy-tid-150682",
+          "title": "Smílið hjá Timmy",
+          "media": "TIM00016_UT308_Timmy_tid_16",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/timmy-tid?sid=150682",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/smilid_hja_timmy.png",
+          "order": 13,
+          "published": "2023-02-14T11:30:00+00:00"
+        },
+        {
+          "id": "timmy-tid-150685",
+          "title": "Timmy og tríhjólaða súkklan",
+          "media": "TIM00018_UT308_Timmy_tid_18",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/timmy-tid?sid=150685",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/timmytime.png",
+          "order": 14,
+          "published": "2023-02-21T15:27:00+00:00"
+        },
+        {
+          "id": "timmy-tid-150683",
+          "title": "Stjørnuskotið Timmy",
+          "media": "TIM00020_UT308_Timmy_tid_20",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/timmy-tid?sid=150683",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/stjornuskotid_timmy.png",
+          "order": 15,
+          "published": "2023-03-07T12:30:00+00:00"
+        },
+        {
+          "id": "timmy-tid-150681",
+          "title": "Timmy vil hava húgvuna",
+          "media": "TIM00022_UT309_Timmy_tid_22",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/timmy-tid?sid=150681",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/ttimy.png",
+          "order": 16,
+          "published": "2023-03-14T13:30:00+00:00"
+        },
+        {
+          "id": "timmy-tid-150688",
+          "title": "Putlispælið hjá Timmy",
+          "media": "TIM00023_UT309_Timmy_tid_23",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/timmy-tid?sid=150688",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/tt23.png",
+          "order": 17,
+          "published": "2023-03-21T13:00:00+00:00"
+        },
+        {
+          "id": "timmy-tid-150687",
+          "title": "Tá hini hista",
+          "media": "TIM00024_UT309_Timmy_tid_24",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/timmy-tid?sid=150687",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/tt24.png",
+          "order": 18,
+          "published": "2023-03-28T11:30:00+01:00"
+        },
+        {
+          "id": "timmy-tid-150686",
+          "title": "Timmy vil hava alt blátt",
+          "media": "TIM00025_UT309_Timmy_tid_25",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/timmy-tid?sid=150686",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/tt25.png",
+          "order": 19,
+          "published": "2023-04-04T11:30:00+01:00"
+        },
+        {
+          "id": "timmy-tid-150667",
+          "title": "Báturin hjá Timmy",
+          "media": "TIM00026_UT309_Timmy_tid_26",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/timmy-tid?sid=150667",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/tt26.png",
+          "order": 20,
+          "published": "2023-04-11T11:30:00+01:00"
         }
       ]
     }
