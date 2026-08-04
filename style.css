@@ -1,0 +1,68 @@
+/*
+  One stylesheet for the published pages. Deliberately small and self-contained: these are read
+  by viewers looking for a straight answer and by store reviewers checking the policy exists, and
+  neither is helped by a framework.
+*/
+:root {
+  color-scheme: light dark;
+  --ink: #1c1e22;
+  --dim: #5a616b;
+  --bg: #ffffff;
+  --panel: #f4f5f7;
+  --line: #dfe2e6;
+  --accent: #d1690f;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ink: #e6e8ec;
+    --dim: #a2a9b4;
+    --bg: #16181c;
+    --panel: #1e2127;
+    --line: #2c3038;
+    --accent: #f5821f;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  padding: 0 20px 64px;
+  background: var(--bg);
+  color: var(--ink);
+  font: 16px/1.6 system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+.wrap { max-width: 720px; margin: 0 auto; }
+
+header {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 28px 0 8px;
+  border-bottom: 1px solid var(--line);
+  margin-bottom: 28px;
+}
+
+header img { width: 56px; height: 56px; border-radius: 12px; }
+header b { font-size: 18px; }
+header span { display: block; color: var(--dim); font-size: 14px; font-weight: normal; }
+
+h1 { font-size: 26px; margin: 28px 0 4px; }
+h2 { font-size: 19px; margin: 32px 0 8px; }
+p, li { color: var(--ink); }
+.lede { color: var(--dim); margin-top: 0; }
+
+.card {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 16px 20px;
+  margin: 18px 0;
+}
+
+a { color: var(--accent); }
+nav a { margin-right: 18px; }
+footer { margin-top: 48px; padding-top: 16px; border-top: 1px solid var(--line); color: var(--dim); font-size: 14px; }
+code { background: var(--panel); padding: 1px 5px; border-radius: 4px; font-size: 14px; }
