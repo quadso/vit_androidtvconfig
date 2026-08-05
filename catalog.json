@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-08-05T21:03:49Z",
+  "updated": "2026-08-05T21:35:11Z",
   "streaming": {
     "playbackUrl": "https://vod.kringvarp.fo/redirect/{mode}/_definst_/smil:smil/{mode}/{media}.smil?type=m3u8",
     "thumbnailsUrl": "https://vod.kringvarp.fo:8081/{mode}/{created}/thumbs/{media}/{media}_thumbs.vtt"
@@ -4120,6 +4120,654 @@
           "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/papi_sally_timir_ikki_at_verda_vaksin_-_mynd.jpg",
           "order": 16,
           "published": "2026-03-16T10:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "155689",
+      "title": "Pettson og Findus",
+      "order": 27,
+      "mode": "video",
+      "kind": "series",
+      "episodes": [
+        {
+          "id": "155689-115347",
+          "title": "Jólagestir",
+          "media": "PET00003_BL1581_PETTSON_OG_FINDUS_3_JOL",
+          "created": "2020",
+          "sourcePage": "https://kvf.fo/node/155689?sid=115347",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/pet3.png",
+          "order": 1,
+          "published": "2020-10-27T09:06:00+00:00"
+        },
+        {
+          "id": "155689-115344",
+          "title": "Findus og Hanin",
+          "media": "PET00001_BL1581_PETTSON_OG_FINDUS_1",
+          "created": "2020",
+          "sourcePage": "https://kvf.fo/node/155689?sid=115344",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/pet1.png",
+          "order": 2,
+          "published": "2023-04-17T12:00:00+01:00"
+        },
+        {
+          "id": "155689-115346",
+          "title": "Revaveiðan",
+          "media": "PET00002_BL1581_PETTSON_OG_FINDUS_2",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/155689?sid=115346",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/pet2.png",
+          "order": 3,
+          "published": "2023-04-24T11:00:00+01:00"
+        },
+        {
+          "id": "155689-115350",
+          "title": "Rakettkøtturin",
+          "media": "PET00004_BL1581_PETTSON_OG_FINDUS_4",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/155689?sid=115350",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/pet4.png",
+          "order": 4,
+          "published": "2023-05-01T11:00:00+01:00"
+        },
+        {
+          "id": "155689-115351",
+          "title": "Beiggi Pettson",
+          "media": "PET00007_BL1581_PETTSON_OG_FINDUS_7",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/155689?sid=115351",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/pet7.png",
+          "order": 5,
+          "published": "2023-05-22T11:00:00+01:00"
+        },
+        {
+          "id": "155689-115282",
+          "title": "Elsdjóraveiða",
+          "media": "PET00008_BL1581_PETTSON_OG_FINDUS_8",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/155689?sid=115282",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/pet8.png",
+          "order": 6,
+          "published": "2023-05-29T11:00:00+01:00"
+        },
+        {
+          "id": "155689-115286",
+          "title": "Pettson tjaldar",
+          "media": "PET00009_BL1581_PETTSON_OG_FINDUS_9",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/155689?sid=115286",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/pet9.png",
+          "order": 7,
+          "published": "2023-06-05T11:00:00+01:00"
+        },
+        {
+          "id": "155689-115285",
+          "title": "Kattonauturin",
+          "media": "PET00010_BL1581_PETTSON_OG_FINDUS_10",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/155689?sid=115285",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/pet10.png",
+          "order": 8,
+          "published": "2023-06-12T11:00:00+01:00"
+        },
+        {
+          "id": "155689-115284",
+          "title": "Kongur vitjar",
+          "media": "PET00011_BL1581_PETTSON_OG_FINDUS_11",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/155689?sid=115284",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/pet11.png",
+          "order": 9,
+          "published": "2023-06-19T11:00:00+01:00"
+        },
+        {
+          "id": "155689-115283",
+          "title": "Sirkustikarin",
+          "media": "PET00012_BL1581_PETTSON_OG_FINDUS_12",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/155689?sid=115283",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/pet12.png",
+          "order": 10,
+          "published": "2023-06-26T11:00:00+01:00"
+        },
+        {
+          "id": "155689-115274",
+          "title": "Veltan",
+          "media": "PET00013_BL1581_PETTSON_OG_FINDUS_13",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/155689?sid=115274",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/pet13.png",
+          "order": 11,
+          "published": "2023-07-03T11:00:00+01:00"
+        }
+      ]
+    },
+    {
+      "id": "158506",
+      "title": "Elias",
+      "order": 28,
+      "mode": "video",
+      "kind": "series",
+      "episodes": [
+        {
+          "id": "158506-158448",
+          "title": "Sjóslangan í Lundavági",
+          "media": "ELI00014_BL1492_Elias_14_2007",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/158506?sid=158448",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/eli00014_bl1492_elias_14_2007_0019.jpg",
+          "order": 1,
+          "published": "2023-09-05T08:00:00+01:00"
+        },
+        {
+          "id": "158506-158452",
+          "title": "Sjakki í mjørka",
+          "media": "ELI00013_BL1492_Elias_13_2007",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/158506?sid=158452",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/eli00013_bl1492_elias_13_2007_0026.jpg",
+          "order": 2,
+          "published": "2023-08-29T08:00:00+01:00"
+        },
+        {
+          "id": "158506-158446",
+          "title": "Stóra kappsiglingin",
+          "media": "ELI00012_BL1492_Elias_12_2007",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/158506?sid=158446",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/eli00012_bl1492_elias_12_2007_0013.jpg",
+          "order": 3,
+          "published": "2023-08-22T08:00:00+01:00"
+        },
+        {
+          "id": "158506-158450",
+          "title": "Krússi á royndartúri",
+          "media": "ELI00011_BL1492_Elias_11_2007",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/158506?sid=158450",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/eli00011_bl1492_elias_11_2007_0028.jpg",
+          "order": 4,
+          "published": "2023-08-15T08:00:00+01:00"
+        },
+        {
+          "id": "158506-158442",
+          "title": "Nýggja peran hjá Stórablunk",
+          "media": "ELI00010_BL1492_Elias_10_2007",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/158506?sid=158442",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/eli00010_bl1492_elias_10_2007_0053_0.jpg",
+          "order": 5,
+          "published": "2023-08-08T08:00:00+01:00"
+        },
+        {
+          "id": "158506-158449",
+          "title": "Sjakki og likkan",
+          "media": "ELI00009_BL1492_Elias_9_2007",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/158506?sid=158449",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/eli00009_bl1492_elias_9_2007_0050.jpg",
+          "order": 6,
+          "published": "2023-08-01T08:00:00+01:00"
+        },
+        {
+          "id": "158506-158441",
+          "title": "Nógvur vindur",
+          "media": "ELI00008_BL1492_Elias_8_2007",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/158506?sid=158441",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/eli00008_bl1492_elias_8_2007_0016.jpg",
+          "order": 7,
+          "published": "2023-07-25T08:00:00+01:00"
+        },
+        {
+          "id": "158506-158445",
+          "title": "Snar kemur til Lundavágs",
+          "media": "ELI00007_BL1492_Elias_7_2007",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/158506?sid=158445",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/eli00007_bl1492_elias_7_2007_0053.jpg",
+          "order": 8,
+          "published": "2023-07-18T08:00:00+01:00"
+        },
+        {
+          "id": "158506-158443",
+          "title": "Troli á skipasmiðju",
+          "media": "ELI00006_BL1492_Elias_6_2007",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/158506?sid=158443",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/eli00006_bl1492_elias_6_2007_0014.jpg",
+          "order": 9,
+          "published": "2023-07-11T08:00:00+01:00"
+        },
+        {
+          "id": "158506-158444",
+          "title": "Troli hevur trupulleikar",
+          "media": "ELI00005_BL1492_Elias_5_2007",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/158506?sid=158444",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/eli00005_bl1492_elias_5_2007_0007.jpg",
+          "order": 10,
+          "published": "2023-07-04T08:00:00+01:00"
+        },
+        {
+          "id": "158506-158440",
+          "title": "Krússi krútperla",
+          "media": "ELI00004_BL1492_Elias_4_2007",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/158506?sid=158440",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/eli00004_bl1492_elias_4_2007_0037.jpg",
+          "order": 11,
+          "published": "2023-06-27T08:00:00+01:00"
+        },
+        {
+          "id": "158506-158438",
+          "title": "Skeggvoks",
+          "media": "ELI00003_BL1492_Elias_3_2007",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/158506?sid=158438",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/eli00003_bl1492_elias_3_2007_0027.jpg",
+          "order": 12,
+          "published": "2023-06-20T08:00:00+01:00"
+        },
+        {
+          "id": "158506-158439",
+          "title": "Stóra blunk",
+          "media": "ELI00002_BL1492_Elias_2_2007",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/158506?sid=158439",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/eli00002_bl1492_elias_2_2007_0022.jpg",
+          "order": 13,
+          "published": "2023-06-13T08:00:00+01:00"
+        },
+        {
+          "id": "158506-158437",
+          "title": "Vælkomin til Lundavágs",
+          "media": "ELI00001_BL1492_Elias_1_2007",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/158506?sid=158437",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/eli00001_bl1492_elias_1_2007_0037.jpg",
+          "order": 14,
+          "published": "2023-06-06T08:00:00+01:00"
+        },
+        {
+          "id": "158506-158459",
+          "title": "Snar á egnari leið",
+          "media": "ELI00021_BL1493_Elias_21_2007",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/158506?sid=158459",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/eli00021_bl1493_elias_21_2007_0026.jpg",
+          "order": 15
+        },
+        {
+          "id": "158506-158460",
+          "title": "ELI00023_BL1493_Elias_23_2007",
+          "media": "ELI00023_BL1493_Elias_23_2007",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/158506?sid=158460",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/eli00023_bl1493_elias_23_2007_0037.jpg",
+          "order": 16
+        },
+        {
+          "id": "158506-158464",
+          "title": "ELI00024_BL1493_Elias_24_2007",
+          "media": "ELI00024_BL1493_Elias_24_2007",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/158506?sid=158464",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/eli00024_bl1493_elias_24_2007_0033.jpg",
+          "order": 17
+        },
+        {
+          "id": "158506-158465",
+          "title": "ELI00025_BL1493_Elias_25_2007",
+          "media": "ELI00025_BL1493_Elias_25_2007",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/158506?sid=158465",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/eli00025_bl1493_elias_25_2007_0010.jpg",
+          "order": 18
+        },
+        {
+          "id": "158506-158509",
+          "title": "Uttan vit",
+          "media": "ELI00020_BL1493_Elias_20_2007",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/158506?sid=158509",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/eli00020_bl1493_elias_20_2007_0019.jpg",
+          "order": 19
+        },
+        {
+          "id": "158506-158451",
+          "title": "Náttarvaktin",
+          "media": "ELI00015_BL1493_Elias_15_2007",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/158506?sid=158451",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/eli00015_bl1493_elias_15_2007_0018.jpg",
+          "order": 20
+        },
+        {
+          "id": "158506-158453",
+          "title": "Likka fær ein hvøkk",
+          "media": "ELI00016_BL1493_Elias_16_2007",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/158506?sid=158453",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/eli00016_bl1493_elias_16_2007_0036.jpg",
+          "order": 21
+        },
+        {
+          "id": "158506-158455",
+          "title": "Sunnudagur",
+          "media": "ELI00017_BL1493_Elias_17_2007",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/158506?sid=158455",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/eli00017_bl1493_elias_17_2007_0043.jpg",
+          "order": 22
+        },
+        {
+          "id": "158506-158456",
+          "title": "Klemman",
+          "media": "ELI00018_BL1493_Elias_18_2007",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/158506?sid=158456",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/eli00018_bl1493_elias_18_2007_0040.jpg",
+          "order": 23
+        },
+        {
+          "id": "158506-158458",
+          "title": "ELI00022_BL1493_Elias_22_2007",
+          "media": "ELI00022_BL1493_Elias_22_2007",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/node/158506?sid=158458",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/eli00022_bl1493_elias_22_2007_0042.jpg",
+          "order": 24
+        }
+      ]
+    },
+    {
+      "id": "flogvanlukkan-i-selvik",
+      "title": "Flogvanlukkan i selvik",
+      "order": 29,
+      "mode": "audio",
+      "kind": "series",
+      "episodes": [
+        {
+          "id": "flogvanlukkan-i-selvik-1",
+          "title": "Flogvanlukkan í Selvík 1",
+          "media": "1222596",
+          "created": "2018",
+          "sourcePage": "https://kvf.fo/ljod/sending/flogvanlukkan-i-selvik?sid=82756",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/flogfarsvindeyga.jpg",
+          "order": 1,
+          "published": "2018-06-27T08:32:00+01:00",
+          "number": 1
+        },
+        {
+          "id": "flogvanlukkan-i-selvik-2",
+          "title": "Flogvanlukkan í Selvík 2",
+          "media": "1222773",
+          "created": "2018",
+          "sourcePage": "https://kvf.fo/ljod/sending/flogvanlukkan-i-selvik?sid=82775",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/flogfarsvindeyga.jpg",
+          "order": 2,
+          "published": "2018-06-27T16:27:00+01:00",
+          "number": 2
+        }
+      ]
+    },
+    {
+      "id": "slokki-sam",
+      "title": "Sløkki Sam",
+      "order": 30,
+      "mode": "video",
+      "kind": "series",
+      "episodes": [
+        {
+          "id": "slokki-sam-162278",
+          "title": "Sam hevur føðingardag",
+          "media": "SlokkiSAM_Seria10_NR02_ep164",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/slokki-sam?sid=162278",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/slokkisam_seria10_nr02_ep164_1_0282.jpg",
+          "order": 1,
+          "published": "2023-09-06T07:00:00+01:00"
+        },
+        {
+          "id": "slokki-sam-162279",
+          "title": "Kongaspæl",
+          "media": "UT502_SlokkiSam_3_2023",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/slokki-sam?sid=162279",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/slokkisam_seria10_nr03_ep165_1_0053.jpg",
+          "order": 2,
+          "published": "2023-09-06T07:00:00+01:00"
+        },
+        {
+          "id": "slokki-sam-163051",
+          "title": "Pitsuhurlivasi",
+          "media": "UT502_SlokkiSam_4_2023_RAETTAD",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/slokki-sam?sid=163051",
+          "image": "https://kvf.fo/system/files/styles/news_xtra_xtra_large/private/ut502_slokkisam_4_2023_raettad_0022.jpg",
+          "order": 3,
+          "published": "2023-09-20T15:00:00+01:00"
+        },
+        {
+          "id": "slokki-sam-163055",
+          "title": "Hundarok",
+          "media": "UT502_SlokkiSam_5_2023",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/slokki-sam?sid=163055",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/ut502_slokkisam_5_2023_0019.jpg",
+          "order": 4,
+          "published": "2023-09-20T15:00:00+01:00"
+        },
+        {
+          "id": "slokki-sam-163059",
+          "title": "Busstrupulleikar",
+          "media": "UT502_SlokkiSam_6_2023",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/slokki-sam?sid=163059",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/ut502_slokkisam_6_2023_0046.jpg",
+          "order": 5,
+          "published": "2023-09-20T15:00:00+01:00"
+        },
+        {
+          "id": "slokki-sam-163061",
+          "title": "Njósnaraspøl",
+          "media": "UT502_SlokkiSam_7_2023",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/slokki-sam?sid=163061",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/ut502_slokkisam_7_2023_0015.jpg",
+          "order": 6,
+          "published": "2023-10-11T12:00:00+01:00"
+        },
+        {
+          "id": "slokki-sam-163063",
+          "title": "Revurin er leysur",
+          "media": "UT502_SlokkiSam_8_2023_RAETTAD",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/slokki-sam?sid=163063",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/ut502_slokkisam_8_2023_raettad_0011.jpg",
+          "order": 7,
+          "published": "2023-10-11T12:00:00+01:00"
+        },
+        {
+          "id": "slokki-sam-163064",
+          "title": "Hurlivasi í grýluveistluni",
+          "media": "UT502_SlokkiSam_9_2023",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/slokki-sam?sid=163064",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/ut502_slokkisam_9_2023_0025.jpg",
+          "order": 8,
+          "published": "2023-10-11T12:00:00+01:00"
+        },
+        {
+          "id": "slokki-sam-163066",
+          "title": "Klandur",
+          "media": "UT502_SlokkiSam_10_2023",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/slokki-sam?sid=163066",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/ut502_slokkisam_10_2023_0052.jpg",
+          "order": 9,
+          "published": "2023-11-01T12:00:00+00:00"
+        },
+        {
+          "id": "slokki-sam-163067",
+          "title": "Brennandi fótbóltur",
+          "media": "UT502_SlokkiSam_11_2023",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/slokki-sam?sid=163067",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/ut502_slokkisam_11_2023_0023.jpg",
+          "order": 10,
+          "published": "2023-11-01T12:00:00+00:00"
+        },
+        {
+          "id": "slokki-sam-163068",
+          "title": "Horvin í hellinum",
+          "media": "UT502_SlokkiSam_12_2023",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/slokki-sam?sid=163068",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/ut502_slokkisam_12_2023_0021.jpg",
+          "order": 11,
+          "published": "2023-11-01T12:00:00+00:00"
+        },
+        {
+          "id": "slokki-sam-163069",
+          "title": "Sterk, stinn og snøgg",
+          "media": "UT502_SlokkiSam_13_2023",
+          "created": "2023",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/slokki-sam?sid=163069",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/ut502_slokkisam_13_2023_0035.jpg",
+          "order": 12,
+          "published": "2023-11-01T12:00:00+00:00"
+        },
+        {
+          "id": "slokki-sam-169276",
+          "title": "Norman-Man og sløkkiliðshundurin",
+          "media": "UT502_SlokkiSam_14_2023",
+          "created": "2024",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/slokki-sam?sid=169276",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/ut502_slokkisam_14_2023_0056.jpg",
+          "order": 13,
+          "published": "2024-01-03T08:36:00+00:00"
+        },
+        {
+          "id": "slokki-sam-169277",
+          "title": "Kadett-vanlukka",
+          "media": "UT502_SlokkiSam_15_2023",
+          "created": "2024",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/slokki-sam?sid=169277",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/ut502_slokkisam_15_2023_0010.jpg",
+          "order": 14,
+          "published": "2024-01-10T08:39:00+00:00"
+        },
+        {
+          "id": "slokki-sam-169278",
+          "title": "Nykursørskapur",
+          "media": "UT502_SlokkiSam_16_2023",
+          "created": "2024",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/slokki-sam?sid=169278",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/ut502_slokkisam_16_2023_0013.jpg",
+          "order": 15,
+          "published": "2024-01-17T08:41:00+00:00"
+        },
+        {
+          "id": "slokki-sam-169279",
+          "title": "Gandatøkni",
+          "media": "UT502_SlokkiSam_17_2023",
+          "created": "2024",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/slokki-sam?sid=169279",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/ut502_slokkisam_17_2023_0007.jpg",
+          "order": 16,
+          "published": "2024-01-24T08:00:00+00:00"
+        },
+        {
+          "id": "slokki-sam-169281",
+          "title": "Prinsurin í Puntabø",
+          "media": "UT502_SlokkiSam_18_2023",
+          "created": "2024",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/slokki-sam?sid=169281",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/ut502_slokkisam_18_2023_0045.jpg",
+          "order": 17,
+          "published": "2024-01-31T08:00:00+00:00"
+        },
+        {
+          "id": "slokki-sam-169284",
+          "title": "Hví-liðið",
+          "media": "UT502_SlokkiSam_19_2023",
+          "created": "2024",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/slokki-sam?sid=169284",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/ut502_slokkisam_19_2023_0024.jpg",
+          "order": 18,
+          "published": "2024-02-07T08:00:00+00:00"
+        },
+        {
+          "id": "slokki-sam-169285",
+          "title": "Puntabøsjelarar",
+          "media": "UT502_SlokkiSam_20_2023",
+          "created": "2024",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/slokki-sam?sid=169285",
+          "image": "https://kvf.fo/sites/default/files/styles/geoblock_overlay/public/ut502_slokkisam_20_2023_0017.jpg",
+          "order": 19,
+          "published": "2024-02-14T08:00:00+00:00"
+        },
+        {
+          "id": "slokki-sam-169286",
+          "title": "Hvør hevur slept frensinum út?",
+          "media": "UT502_SlokkiSam_21_2023",
+          "created": "2024",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/slokki-sam?sid=169286",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/ut502_slokkisam_21_2023_0047.jpg",
+          "order": 20,
+          "published": "2024-02-21T08:00:00+00:00"
+        },
+        {
+          "id": "slokki-sam-169287",
+          "title": "Vildis fór skeivan veg",
+          "media": "UT502_SlokkiSam_22_2023",
+          "created": "2024",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/slokki-sam?sid=169287",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/ut502_slokkisam_22_2023_0030.jpg",
+          "order": 21,
+          "published": "2024-02-28T08:00:00+00:00"
+        },
+        {
+          "id": "slokki-sam-170610",
+          "title": "Normanskvøld",
+          "media": "UT502_SlokkiSam_23_2023",
+          "created": "2024",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/slokki-sam?sid=170610",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/ut502_slokkisam_23_2023_0006.jpg",
+          "order": 22,
+          "published": "2024-03-06T08:00:00+00:00"
+        },
+        {
+          "id": "slokki-sam-170608",
+          "title": "Rúmdarskordýr",
+          "media": "UT502_SlokkiSam_24_2023",
+          "created": "2024",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/slokki-sam?sid=170608",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/ut502_slokkisam_24_2023_0011.jpg",
+          "order": 23,
+          "published": "2024-03-13T08:00:00+00:00"
+        },
+        {
+          "id": "slokki-sam-170612",
+          "title": "Eldur í gomlum døgum",
+          "media": "UT502_SlokkiSam_25_2023",
+          "created": "2024",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/slokki-sam?sid=170612",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/ut502_slokkisam_25_2023_0034.jpg",
+          "order": 24,
+          "published": "2024-03-20T08:00:00+00:00"
+        },
+        {
+          "id": "slokki-sam-170613",
+          "title": "Janus og tað stóra graskarið",
+          "media": "UT502_SlokkiSam_26_2023",
+          "created": "2024",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/slokki-sam?sid=170613",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/ut502_slokkisam_26_2023_0023.jpg",
+          "order": 25,
+          "published": "2024-03-27T08:00:00+00:00"
         }
       ]
     }
