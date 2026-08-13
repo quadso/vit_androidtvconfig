@@ -1822,21 +1822,21 @@
           "published": "2017-01-30T18:15:00+00:00"
         },
         {
-          "id": "klintrimus-64337",
-          "title": "Klintrimús og hini dýrini í Vallbakkaskóginum, 4. partur",
-          "media": "1111298",
-          "created": "2017",
-          "sourcePage": "https://kvf.fo/vit/sending/uv/klintrimus-og-hini-dyrini-i-valbakkaskoginum?sid=64337",
-          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/klintrimus.jpg",
-          "order": 3,
-          "published": "2017-01-31T08:45:00+00:00"
-        },
-        {
           "id": "klintrimus-64336",
           "title": "Klintrimús og hini dýrini í Vallbakkaskóginum, 3. partur",
           "media": "1111297",
           "created": "2017",
           "sourcePage": "https://kvf.fo/vit/sending/uv/klintrimus-og-hini-dyrini-i-valbakkaskoginum?sid=64336",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/klintrimus.jpg",
+          "order": 3,
+          "published": "2017-01-31T08:45:00+00:00"
+        },
+        {
+          "id": "klintrimus-64337",
+          "title": "Klintrimús og hini dýrini í Vallbakkaskóginum, 4. partur",
+          "media": "1111298",
+          "created": "2017",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/klintrimus-og-hini-dyrini-i-valbakkaskoginum?sid=64337",
           "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/klintrimus.jpg",
           "order": 4,
           "published": "2017-01-31T08:45:00+00:00"
@@ -1852,13 +1852,23 @@
           "published": "2017-02-03T09:15:00+00:00"
         },
         {
+          "id": "klintrimus-64479",
+          "title": "Klintrimús og hini dýrini í Vallbakkaskóginum, 6. partur",
+          "media": "1112206",
+          "created": "2017",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/klintrimus-og-hini-dyrini-i-valbakkaskoginum?sid=64479",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/klintrimus.jpg",
+          "order": 6,
+          "published": "2017-02-03T10:15:00+00:00"
+        },
+        {
           "id": "klintrimus-64481",
           "title": "Klintrimús og hini dýrini í Vallbakkaskóginum, 7. partur",
           "media": "1112210",
           "created": "2017",
           "sourcePage": "https://kvf.fo/vit/sending/uv/klintrimus-og-hini-dyrini-i-valbakkaskoginum?sid=64481",
           "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/klintrimus.jpg",
-          "order": 6,
+          "order": 7,
           "published": "2017-02-03T10:15:00+00:00"
         },
         {
@@ -1867,16 +1877,6 @@
           "media": "1112215",
           "created": "2017",
           "sourcePage": "https://kvf.fo/vit/sending/uv/klintrimus-og-hini-dyrini-i-valbakkaskoginum?sid=64482",
-          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/klintrimus.jpg",
-          "order": 7,
-          "published": "2017-02-03T10:15:00+00:00"
-        },
-        {
-          "id": "klintrimus-64479",
-          "title": "Klintrimús og hini dýrini í Vallbakkaskóginum, 6. partur",
-          "media": "1112206",
-          "created": "2017",
-          "sourcePage": "https://kvf.fo/vit/sending/uv/klintrimus-og-hini-dyrini-i-valbakkaskoginum?sid=64479",
           "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/klintrimus.jpg",
           "order": 8,
           "published": "2017-02-03T10:15:00+00:00"
