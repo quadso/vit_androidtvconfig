@@ -3972,13 +3972,23 @@
           "published": "2025-09-22T15:12:00+01:00"
         },
         {
+          "id": "les-vimus-204787",
+          "title": "Mamma Mu verður kedd",
+          "media": "Gundur_M_v4_Mamma_mu",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=204787",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/mamma_mu_verdur_kedd_cover.jpg",
+          "order": 2,
+          "published": "2026-02-27T15:00:00+00:00"
+        },
+        {
           "id": "les-vimus-197608",
           "title": "Dinosauravinir - Eggið",
           "media": "VIN00039_OK",
           "created": "2025",
           "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=197608",
           "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/dinosauravinir_-_cover.jpg",
-          "order": 2,
+          "order": 3,
           "published": "2025-09-26T11:46:00+01:00"
         },
         {
@@ -3988,7 +3998,7 @@
           "created": "2025",
           "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=197917",
           "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/at_vera_hja_ommu_cover.jpg",
-          "order": 3,
+          "order": 4,
           "published": "2025-10-03T15:00:00+01:00"
         },
         {
@@ -3998,7 +4008,7 @@
           "created": "2025",
           "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=198285",
           "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/aldrinstid_segid_alvur_akason.jpg",
-          "order": 4,
+          "order": 5,
           "published": "2025-10-10T15:00:00+01:00"
         },
         {
@@ -4008,7 +4018,7 @@
           "created": "2025",
           "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=198628",
           "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/petra_fer_til_frisor_cover_10.1.1.jpg",
-          "order": 5,
+          "order": 6,
           "published": "2025-10-18T14:30:00+01:00"
         },
         {
@@ -4018,7 +4028,7 @@
           "created": "2025",
           "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=198918",
           "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/tornid_hja_harra_babel.jpg",
-          "order": 6,
+          "order": 7,
           "published": "2025-10-24T15:00:00+01:00"
         },
         {
@@ -4028,7 +4038,7 @@
           "created": "2025",
           "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=199146",
           "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/screenshot_2025-10-29_084215.png",
-          "order": 7,
+          "order": 8,
           "published": "2025-10-31T15:00:00+00:00"
         },
         {
@@ -4038,7 +4048,7 @@
           "created": "2025",
           "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=199609",
           "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/plass_fyri_maer_cover.jpg",
-          "order": 8,
+          "order": 9,
           "published": "2025-11-07T15:00:00+00:00"
         },
         {
@@ -4048,7 +4058,7 @@
           "created": "2025",
           "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=199935",
           "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/jakobina_kvorkveggja.jpg",
-          "order": 9,
+          "order": 10,
           "published": "2025-11-14T15:02:00+00:00"
         },
         {
@@ -4058,7 +4068,7 @@
           "created": "2025",
           "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=200274",
           "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/i_morgin_fari_eg_aftur_at_spala_vid_babba.jpg",
-          "order": 10,
+          "order": 11,
           "published": "2025-11-21T15:15:00+00:00"
         },
         {
@@ -4068,7 +4078,7 @@
           "created": "2025",
           "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=200667",
           "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/heidi_4.jpg",
-          "order": 11,
+          "order": 12,
           "published": "2025-12-01T14:55:00+00:00"
         },
         {
@@ -4078,7 +4088,7 @@
           "created": "2026",
           "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=204522",
           "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/eitt_hav_av_kaerleika_cover.jpg",
-          "order": 12,
+          "order": 13,
           "published": "2026-02-20T15:00:00+00:00"
         },
         {
@@ -4088,16 +4098,6 @@
           "created": "2026",
           "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=204785",
           "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/hilda_og_monsi_cover.jpg",
-          "order": 13,
-          "published": "2026-02-27T15:00:00+00:00"
-        },
-        {
-          "id": "les-vimus-204787",
-          "title": "Mamma Mu verður kedd",
-          "media": "Gundur_M_v4_Mamma_mu",
-          "created": "2026",
-          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=204787",
-          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/mamma_mu_verdur_kedd_cover.jpg",
           "order": 14,
           "published": "2026-02-27T15:00:00+00:00"
         },
