@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-08-05T21:35:11Z",
+  "updated": "2026-09-23T06:29:39Z",
   "streaming": {
     "playbackUrl": "https://vod.kringvarp.fo/redirect/{mode}/_definst_/smil:smil/{mode}/{media}.smil?type=m3u8",
     "thumbnailsUrl": "https://vod.kringvarp.fo:8081/{mode}/{created}/thumbs/{media}/{media}_thumbs.vtt"
@@ -1508,20 +1508,171 @@
       ]
     },
     {
-      "id": "alda",
-      "title": "Alda",
-      "order": 26,
-      "mode": "audio",
+      "id": "les-vimus",
+      "title": "Les vimus",
+      "order": 5,
+      "mode": "video",
+      "kind": "series",
       "episodes": [
         {
-          "id": "alda-205509",
-          "title": "Alda",
-          "media": "1800408",
-          "created": "2026",
-          "sourcePage": "https://kvf.fo/vit/sending/uv/alda?sid=205509",
-          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/alda_mynd_0.jpg",
+          "id": "les-vimus-197371",
+          "title": "Paulina og suttan",
+          "media": "VIN00038_Les_Vimus_Eggid",
+          "created": "2025",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=197371",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/paulina_og_suttan_9.1.1.jpg",
           "order": 1,
-          "published": "2026-03-12T11:16:00+00:00"
+          "published": "2025-09-22T15:12:00+01:00"
+        },
+        {
+          "id": "les-vimus-204787",
+          "title": "Mamma Mu verður kedd",
+          "media": "Gundur_M_v4_Mamma_mu",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=204787",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/mamma_mu_verdur_kedd_cover.jpg",
+          "order": 2,
+          "published": "2026-02-27T15:00:00+00:00"
+        },
+        {
+          "id": "les-vimus-197608",
+          "title": "Dinosauravinir - Eggið",
+          "media": "VIN00039_OK",
+          "created": "2025",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=197608",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/dinosauravinir_-_cover.jpg",
+          "order": 3,
+          "published": "2025-09-26T11:46:00+01:00"
+        },
+        {
+          "id": "les-vimus-197917",
+          "title": "At vera hjá ommu",
+          "media": "VIN00040_v2",
+          "created": "2025",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=197917",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/at_vera_hja_ommu_cover.jpg",
+          "order": 4,
+          "published": "2025-10-03T15:00:00+01:00"
+        },
+        {
+          "id": "les-vimus-198285",
+          "title": "Aldrinstíð",
+          "media": "VIN00041_OK",
+          "created": "2025",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=198285",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/aldrinstid_segid_alvur_akason.jpg",
+          "order": 5,
+          "published": "2025-10-10T15:00:00+01:00"
+        },
+        {
+          "id": "les-vimus-198628",
+          "title": "Petra fer til frisør",
+          "media": "VIN00042_OK",
+          "created": "2025",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=198628",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/petra_fer_til_frisor_cover_10.1.1.jpg",
+          "order": 6,
+          "published": "2025-10-18T14:30:00+01:00"
+        },
+        {
+          "id": "les-vimus-198918",
+          "title": "Tornið hjá harra Bábel",
+          "media": "VIN00043",
+          "created": "2025",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=198918",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/tornid_hja_harra_babel.jpg",
+          "order": 7,
+          "published": "2025-10-24T15:00:00+01:00"
+        },
+        {
+          "id": "les-vimus-199146",
+          "title": "Eta gras",
+          "media": "VIN00044",
+          "created": "2025",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=199146",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/screenshot_2025-10-29_084215.png",
+          "order": 8,
+          "published": "2025-10-31T15:00:00+00:00"
+        },
+        {
+          "id": "les-vimus-199609",
+          "title": "Pláss fyri mær",
+          "media": "VIN00045_ok",
+          "created": "2025",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=199609",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/plass_fyri_maer_cover.jpg",
+          "order": 9,
+          "published": "2025-11-07T15:00:00+00:00"
+        },
+        {
+          "id": "les-vimus-199935",
+          "title": "Jakobina, kvørkveggja",
+          "media": "VIN00046",
+          "created": "2025",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=199935",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/jakobina_kvorkveggja.jpg",
+          "order": 10,
+          "published": "2025-11-14T15:02:00+00:00"
+        },
+        {
+          "id": "les-vimus-200274",
+          "title": "Í morgin fari eg aftur at spæla við babba",
+          "media": "VIN00047",
+          "created": "2025",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=200274",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/i_morgin_fari_eg_aftur_at_spala_vid_babba.jpg",
+          "order": 11,
+          "published": "2025-11-21T15:15:00+00:00"
+        },
+        {
+          "id": "les-vimus-200667",
+          "title": "Heidi",
+          "media": "VIN00048",
+          "created": "2025",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=200667",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/heidi_4.jpg",
+          "order": 12,
+          "published": "2025-12-01T14:55:00+00:00"
+        },
+        {
+          "id": "les-vimus-204522",
+          "title": "Eitt hav av kærleika",
+          "media": "VIN00049",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=204522",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/eitt_hav_av_kaerleika_cover.jpg",
+          "order": 13,
+          "published": "2026-02-20T15:00:00+00:00"
+        },
+        {
+          "id": "les-vimus-204785",
+          "title": "Hilda og Monsi",
+          "media": "Birita_Adela_v3_Hilda_og_monsi",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=204785",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/hilda_og_monsi_cover.jpg",
+          "order": 14,
+          "published": "2026-02-27T15:00:00+00:00"
+        },
+        {
+          "id": "les-vimus-205195",
+          "title": "Loftar tú mær",
+          "media": "VIN00051_loftar_tu_maer",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=205195",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/loftar_tu_maer_cover.jpg",
+          "order": 15,
+          "published": "2026-03-05T15:45:00+00:00"
+        },
+        {
+          "id": "les-vimus-205673",
+          "title": "Pápi Sally tímir ikki at vera vaksin",
+          "media": "VIN00053_-_raettad",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=205673",
+          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/papi_sally_timir_ikki_at_verda_vaksin_-_mynd.jpg",
+          "order": 16,
+          "published": "2026-03-16T10:25:00+00:00"
         }
       ]
     },
@@ -2280,7 +2431,7 @@
     {
       "id": "nyggju-klaedir-keisarans",
       "title": "Nýggju klæðir keisarans",
-      "order": 14,
+      "order": 31,
       "mode": "audio",
       "kind": "series",
       "episodes": [
@@ -3955,171 +4106,20 @@
       ]
     },
     {
-      "id": "les-vimus",
-      "title": "Les vimus",
-      "order": 5,
-      "mode": "video",
-      "kind": "series",
+      "id": "alda",
+      "title": "Alda",
+      "order": 26,
+      "mode": "audio",
       "episodes": [
         {
-          "id": "les-vimus-197371",
-          "title": "Paulina og suttan",
-          "media": "VIN00038_Les_Vimus_Eggid",
-          "created": "2025",
-          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=197371",
-          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/paulina_og_suttan_9.1.1.jpg",
+          "id": "alda-205509",
+          "title": "Alda",
+          "media": "1800408",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/alda?sid=205509",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/alda_mynd_0.jpg",
           "order": 1,
-          "published": "2025-09-22T15:12:00+01:00"
-        },
-        {
-          "id": "les-vimus-204787",
-          "title": "Mamma Mu verður kedd",
-          "media": "Gundur_M_v4_Mamma_mu",
-          "created": "2026",
-          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=204787",
-          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/mamma_mu_verdur_kedd_cover.jpg",
-          "order": 2,
-          "published": "2026-02-27T15:00:00+00:00"
-        },
-        {
-          "id": "les-vimus-197608",
-          "title": "Dinosauravinir - Eggið",
-          "media": "VIN00039_OK",
-          "created": "2025",
-          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=197608",
-          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/dinosauravinir_-_cover.jpg",
-          "order": 3,
-          "published": "2025-09-26T11:46:00+01:00"
-        },
-        {
-          "id": "les-vimus-197917",
-          "title": "At vera hjá ommu",
-          "media": "VIN00040_v2",
-          "created": "2025",
-          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=197917",
-          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/at_vera_hja_ommu_cover.jpg",
-          "order": 4,
-          "published": "2025-10-03T15:00:00+01:00"
-        },
-        {
-          "id": "les-vimus-198285",
-          "title": "Aldrinstíð",
-          "media": "VIN00041_OK",
-          "created": "2025",
-          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=198285",
-          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/aldrinstid_segid_alvur_akason.jpg",
-          "order": 5,
-          "published": "2025-10-10T15:00:00+01:00"
-        },
-        {
-          "id": "les-vimus-198628",
-          "title": "Petra fer til frisør",
-          "media": "VIN00042_OK",
-          "created": "2025",
-          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=198628",
-          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/petra_fer_til_frisor_cover_10.1.1.jpg",
-          "order": 6,
-          "published": "2025-10-18T14:30:00+01:00"
-        },
-        {
-          "id": "les-vimus-198918",
-          "title": "Tornið hjá harra Bábel",
-          "media": "VIN00043",
-          "created": "2025",
-          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=198918",
-          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/tornid_hja_harra_babel.jpg",
-          "order": 7,
-          "published": "2025-10-24T15:00:00+01:00"
-        },
-        {
-          "id": "les-vimus-199146",
-          "title": "Eta gras",
-          "media": "VIN00044",
-          "created": "2025",
-          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=199146",
-          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/screenshot_2025-10-29_084215.png",
-          "order": 8,
-          "published": "2025-10-31T15:00:00+00:00"
-        },
-        {
-          "id": "les-vimus-199609",
-          "title": "Pláss fyri mær",
-          "media": "VIN00045_ok",
-          "created": "2025",
-          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=199609",
-          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/plass_fyri_maer_cover.jpg",
-          "order": 9,
-          "published": "2025-11-07T15:00:00+00:00"
-        },
-        {
-          "id": "les-vimus-199935",
-          "title": "Jakobina, kvørkveggja",
-          "media": "VIN00046",
-          "created": "2025",
-          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=199935",
-          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/jakobina_kvorkveggja.jpg",
-          "order": 10,
-          "published": "2025-11-14T15:02:00+00:00"
-        },
-        {
-          "id": "les-vimus-200274",
-          "title": "Í morgin fari eg aftur at spæla við babba",
-          "media": "VIN00047",
-          "created": "2025",
-          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=200274",
-          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/i_morgin_fari_eg_aftur_at_spala_vid_babba.jpg",
-          "order": 11,
-          "published": "2025-11-21T15:15:00+00:00"
-        },
-        {
-          "id": "les-vimus-200667",
-          "title": "Heidi",
-          "media": "VIN00048",
-          "created": "2025",
-          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=200667",
-          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/heidi_4.jpg",
-          "order": 12,
-          "published": "2025-12-01T14:55:00+00:00"
-        },
-        {
-          "id": "les-vimus-204522",
-          "title": "Eitt hav av kærleika",
-          "media": "VIN00049",
-          "created": "2026",
-          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=204522",
-          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/eitt_hav_av_kaerleika_cover.jpg",
-          "order": 13,
-          "published": "2026-02-20T15:00:00+00:00"
-        },
-        {
-          "id": "les-vimus-204785",
-          "title": "Hilda og Monsi",
-          "media": "Birita_Adela_v3_Hilda_og_monsi",
-          "created": "2026",
-          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=204785",
-          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/hilda_og_monsi_cover.jpg",
-          "order": 14,
-          "published": "2026-02-27T15:00:00+00:00"
-        },
-        {
-          "id": "les-vimus-205195",
-          "title": "Loftar tú mær",
-          "media": "VIN00051_loftar_tu_maer",
-          "created": "2026",
-          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=205195",
-          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/loftar_tu_maer_cover.jpg",
-          "order": 15,
-          "published": "2026-03-05T15:45:00+00:00"
-        },
-        {
-          "id": "les-vimus-205673",
-          "title": "Pápi Sally tímir ikki at vera vaksin",
-          "media": "VIN00053_-_raettad",
-          "created": "2026",
-          "sourcePage": "https://kvf.fo/vit/sending/sv/les-vimus?sid=205673",
-          "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/papi_sally_timir_ikki_at_verda_vaksin_-_mynd.jpg",
-          "order": 16,
-          "published": "2026-03-16T10:25:00+00:00"
+          "published": "2026-03-12T11:16:00+00:00"
         }
       ]
     },
@@ -4768,6 +4768,95 @@
           "image": "https://kvf.fo/sites/default/files/styles/news_xtra_xtra_large/public/ut502_slokkisam_26_2023_0023.jpg",
           "order": 25,
           "published": "2024-03-27T08:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "folk-og-dolgar-i-kardamummubynum",
+      "title": "Folk og dolgar i kardamummubynum",
+      "order": 14,
+      "mode": "audio",
+      "kind": "series",
+      "episodes": [
+        {
+          "id": "folk-og-dolgar-i-kardamummubynum-213253",
+          "title": "Fólk og dólgar í Kardumummubýnum 1.partur",
+          "media": "a_2082-5_SITE01",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/folk-og-dolgar-i-kardamummubynum?sid=213253",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/folk_og_dolgar_mynd_raett_raett_0.jpg",
+          "order": 1,
+          "published": "2026-09-16T18:20:00+01:00"
+        },
+        {
+          "id": "folk-og-dolgar-i-kardamummubynum-213252",
+          "title": "Fólk og dólgar í Kardumummubýnum 2.partur",
+          "media": "a_2083-5_SITE01",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/folk-og-dolgar-i-kardamummubynum?sid=213252",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/folk_og_dolgar_mynd_raett_raett_0.jpg",
+          "order": 2,
+          "published": "2026-09-17T18:17:00+01:00"
+        },
+        {
+          "id": "folk-og-dolgar-i-kardamummubynum-213251",
+          "title": "Fólk og dólgar í Kardumummubýnum 3.partur",
+          "media": "a_2084-5_SITE01",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/folk-og-dolgar-i-kardamummubynum?sid=213251",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/folk_og_dolgar_mynd_raett_raett_0.jpg",
+          "order": 3,
+          "published": "2026-09-18T18:20:00+01:00"
+        },
+        {
+          "id": "folk-og-dolgar-i-kardamummubynum-213249",
+          "title": "Fólk og dólgar í Kardumummubýnum 4. partur",
+          "media": "a_2085-5_SITE01",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/folk-og-dolgar-i-kardamummubynum?sid=213249",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/folk_og_dolgar_mynd_raett_raett_0.jpg",
+          "order": 4,
+          "published": "2026-09-21T18:17:00+01:00"
+        },
+        {
+          "id": "folk-og-dolgar-i-kardamummubynum-213597",
+          "title": "Fólk og dólgar í Kardumummubýnum 5.partu",
+          "media": "a_2201-5_SITE01",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/folk-og-dolgar-i-kardamummubynum?sid=213597",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/folk_og_dolgar_mynd_raett_raett_0.jpg",
+          "order": 5,
+          "published": "2026-09-22T18:17:00+01:00"
+        },
+        {
+          "id": "folk-og-dolgar-i-kardamummubynum-213598",
+          "title": "Fólk og dólgar í Kardumummubýnum 6.partur",
+          "media": "a_2202-5_SITE01",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/folk-og-dolgar-i-kardamummubynum?sid=213598",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/folk_og_dolgar_mynd_raett_raett_0.jpg",
+          "order": 6,
+          "published": "2026-09-23T18:20:00+01:00"
+        },
+        {
+          "id": "folk-og-dolgar-i-kardamummubynum-213600",
+          "title": "Fólk og dólgar í Kardumummubýnum 8.partur",
+          "media": "a_2204-5_SITE01",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/folk-og-dolgar-i-kardamummubynum?sid=213600",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/folk_og_dolgar_mynd_raett_raett_0.jpg",
+          "order": 7,
+          "published": "2026-09-25T18:20:00+01:00"
+        },
+        {
+          "id": "folk-og-dolgar-i-kardamummubynum-213601",
+          "title": "Fólk og dólgar í Kardumummubýnum 10.partur",
+          "media": "a_2206-5_SITE01",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/folk-og-dolgar-i-kardamummubynum?sid=213601",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/folk_og_dolgar_mynd_raett_raett_0.jpg",
+          "order": 8,
+          "published": "2026-09-29T18:20:00+01:00"
         }
       ]
     }
