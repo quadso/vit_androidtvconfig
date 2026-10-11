@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-09-23T06:29:39Z",
+  "updated": "2026-10-11T14:28:34Z",
   "streaming": {
     "playbackUrl": "https://vod.kringvarp.fo/redirect/{mode}/_definst_/smil:smil/{mode}/{media}.smil?type=m3u8",
     "thumbnailsUrl": "https://vod.kringvarp.fo:8081/{mode}/{created}/thumbs/{media}/{media}_thumbs.vtt"
@@ -2429,21 +2429,151 @@
       ]
     },
     {
-      "id": "nyggju-klaedir-keisarans",
-      "title": "Nýggju klæðir keisarans",
-      "order": 31,
+      "id": "folk-og-dolgar-i-kardamummubynum",
+      "title": "Folk og dolgar i kardamummubynum",
+      "order": 14,
       "mode": "audio",
       "kind": "series",
       "episodes": [
         {
-          "id": "nyggju-klaedir-keisarans-108391",
-          "title": "Nýggju klæðir keisarans",
-          "media": "1368805",
-          "created": "2020",
-          "sourcePage": "https://kvf.fo/vit/sending/uv/nyggju-klaedir-keisarans?sid=108391",
-          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/ha-kejseren-600x394_0.jpg",
+          "id": "folk-og-dolgar-i-kardamummubynum-214351",
+          "title": "Fólk og dólgar í Kardumummubýnum 14.partur",
+          "media": "a_2315-5_SITE01",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/folk-og-dolgar-i-kardamummubynum?sid=214351",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/folk_og_dolgar_mynd_raett_raett_0.jpg",
+          "order": 14,
+          "published": "2026-10-05T07:15:00+01:00"
+        },
+        {
+          "id": "folk-og-dolgar-i-kardamummubynum-214117",
+          "title": "Fólk og dólgar í Kardumummubýnum 13.partur",
+          "media": "a_2314-5_SITE01",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/folk-og-dolgar-i-kardamummubynum?sid=214117",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/folk_og_dolgar_mynd_raett_raett_0.jpg",
+          "order": 13,
+          "published": "2026-10-02T18:20:00+01:00"
+        },
+        {
+          "id": "folk-og-dolgar-i-kardamummubynum-213976",
+          "title": "Fólk og dólgar í Kardumummubýnum 12.partur",
+          "media": "a_2285-5_SITE01",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/folk-og-dolgar-i-kardamummubynum?sid=213976",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/folk_og_dolgar_mynd_raett_raett_0.jpg",
+          "order": 12,
+          "published": "2026-10-01T18:20:00+01:00"
+        },
+        {
+          "id": "folk-og-dolgar-i-kardamummubynum-213975",
+          "title": "Fólk og dólgar í Kardumummubýnum 11.partur",
+          "media": "a_2284-5_SITE01",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/folk-og-dolgar-i-kardamummubynum?sid=213975",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/folk_og_dolgar_mynd_raett_raett_0.jpg",
+          "order": 11,
+          "published": "2026-09-30T18:20:00+01:00"
+        },
+        {
+          "id": "folk-og-dolgar-i-kardamummubynum-213601",
+          "title": "Fólk og dólgar í Kardumummubýnum 10.partur",
+          "media": "a_2206-5_SITE01",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/folk-og-dolgar-i-kardamummubynum?sid=213601",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/folk_og_dolgar_mynd_raett_raett_0.jpg",
+          "order": 10,
+          "published": "2026-09-29T18:17:00+01:00"
+        },
+        {
+          "id": "folk-og-dolgar-i-kardamummubynum-213978",
+          "title": "Fólk og dólgar í Kardumummubýnum 7.partur rætt",
+          "media": "1835218",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/folk-og-dolgar-i-kardamummubynum?sid=213978",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/folk_og_dolgar_mynd_raett_raett_2.jpg",
+          "order": 7,
+          "published": "2026-09-29T18:06:00+01:00"
+        },
+        {
+          "id": "folk-og-dolgar-i-kardamummubynum-213805",
+          "title": "Fólk og dólgar í Kardumummubýnum 9.partur",
+          "media": "a_2205-5_SITE01",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/folk-og-dolgar-i-kardamummubynum?sid=213805",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/folk_og_dolgar_mynd_raett_raett_0.jpg",
+          "order": 9,
+          "published": "2026-09-28T18:17:00+01:00"
+        },
+        {
+          "id": "folk-og-dolgar-i-kardamummubynum-213600",
+          "title": "Fólk og dólgar í Kardumummubýnum 8.partur",
+          "media": "a_2204-5_SITE01",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/folk-og-dolgar-i-kardamummubynum?sid=213600",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/folk_og_dolgar_mynd_raett_raett_0.jpg",
+          "order": 8,
+          "published": "2026-09-25T18:17:00+01:00"
+        },
+        {
+          "id": "folk-og-dolgar-i-kardamummubynum-213598",
+          "title": "Fólk og dólgar í Kardumummubýnum 6.partur",
+          "media": "a_2202-5_SITE01",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/folk-og-dolgar-i-kardamummubynum?sid=213598",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/folk_og_dolgar_mynd_raett_raett_0.jpg",
+          "order": 6,
+          "published": "2026-09-23T18:20:00+01:00"
+        },
+        {
+          "id": "folk-og-dolgar-i-kardamummubynum-213597",
+          "title": "Fólk og dólgar í Kardumummubýnum 5.partu",
+          "media": "a_2201-5_SITE01",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/folk-og-dolgar-i-kardamummubynum?sid=213597",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/folk_og_dolgar_mynd_raett_raett_0.jpg",
+          "order": 5,
+          "published": "2026-09-22T18:17:00+01:00"
+        },
+        {
+          "id": "folk-og-dolgar-i-kardamummubynum-213249",
+          "title": "Fólk og dólgar í Kardumummubýnum 4. partur",
+          "media": "a_2085-5_SITE01",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/folk-og-dolgar-i-kardamummubynum?sid=213249",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/folk_og_dolgar_mynd_raett_raett_0.jpg",
+          "order": 4,
+          "published": "2026-09-21T18:17:00+01:00"
+        },
+        {
+          "id": "folk-og-dolgar-i-kardamummubynum-213251",
+          "title": "Fólk og dólgar í Kardumummubýnum 3.partur",
+          "media": "a_2084-5_SITE01",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/folk-og-dolgar-i-kardamummubynum?sid=213251",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/folk_og_dolgar_mynd_raett_raett_0.jpg",
+          "order": 3,
+          "published": "2026-09-18T18:20:00+01:00"
+        },
+        {
+          "id": "folk-og-dolgar-i-kardamummubynum-213252",
+          "title": "Fólk og dólgar í Kardumummubýnum 2.partur",
+          "media": "a_2083-5_SITE01",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/folk-og-dolgar-i-kardamummubynum?sid=213252",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/folk_og_dolgar_mynd_raett_raett_0.jpg",
+          "order": 2,
+          "published": "2026-09-17T18:17:00+01:00"
+        },
+        {
+          "id": "folk-og-dolgar-i-kardamummubynum-213253",
+          "title": "Fólk og dólgar í Kardumummubýnum 1.partur",
+          "media": "a_2082-5_SITE01",
+          "created": "2026",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/folk-og-dolgar-i-kardamummubynum?sid=213253",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/folk_og_dolgar_mynd_raett_raett_0.jpg",
           "order": 1,
-          "published": "2020-05-05T20:00:00+01:00"
+          "published": "2026-09-16T18:20:00+01:00"
         }
       ]
     },
@@ -4772,91 +4902,21 @@
       ]
     },
     {
-      "id": "folk-og-dolgar-i-kardamummubynum",
-      "title": "Folk og dolgar i kardamummubynum",
-      "order": 14,
+      "id": "nyggju-klaedir-keisarans",
+      "title": "Nýggju klæðir keisarans",
+      "order": 31,
       "mode": "audio",
       "kind": "series",
       "episodes": [
         {
-          "id": "folk-og-dolgar-i-kardamummubynum-213253",
-          "title": "Fólk og dólgar í Kardumummubýnum 1.partur",
-          "media": "a_2082-5_SITE01",
-          "created": "2026",
-          "sourcePage": "https://kvf.fo/vit/sending/uv/folk-og-dolgar-i-kardamummubynum?sid=213253",
-          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/folk_og_dolgar_mynd_raett_raett_0.jpg",
+          "id": "nyggju-klaedir-keisarans-108391",
+          "title": "Nýggju klæðir keisarans",
+          "media": "1368805",
+          "created": "2020",
+          "sourcePage": "https://kvf.fo/vit/sending/uv/nyggju-klaedir-keisarans?sid=108391",
+          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/ha-kejseren-600x394_0.jpg",
           "order": 1,
-          "published": "2026-09-16T18:20:00+01:00"
-        },
-        {
-          "id": "folk-og-dolgar-i-kardamummubynum-213252",
-          "title": "Fólk og dólgar í Kardumummubýnum 2.partur",
-          "media": "a_2083-5_SITE01",
-          "created": "2026",
-          "sourcePage": "https://kvf.fo/vit/sending/uv/folk-og-dolgar-i-kardamummubynum?sid=213252",
-          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/folk_og_dolgar_mynd_raett_raett_0.jpg",
-          "order": 2,
-          "published": "2026-09-17T18:17:00+01:00"
-        },
-        {
-          "id": "folk-og-dolgar-i-kardamummubynum-213251",
-          "title": "Fólk og dólgar í Kardumummubýnum 3.partur",
-          "media": "a_2084-5_SITE01",
-          "created": "2026",
-          "sourcePage": "https://kvf.fo/vit/sending/uv/folk-og-dolgar-i-kardamummubynum?sid=213251",
-          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/folk_og_dolgar_mynd_raett_raett_0.jpg",
-          "order": 3,
-          "published": "2026-09-18T18:20:00+01:00"
-        },
-        {
-          "id": "folk-og-dolgar-i-kardamummubynum-213249",
-          "title": "Fólk og dólgar í Kardumummubýnum 4. partur",
-          "media": "a_2085-5_SITE01",
-          "created": "2026",
-          "sourcePage": "https://kvf.fo/vit/sending/uv/folk-og-dolgar-i-kardamummubynum?sid=213249",
-          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/folk_og_dolgar_mynd_raett_raett_0.jpg",
-          "order": 4,
-          "published": "2026-09-21T18:17:00+01:00"
-        },
-        {
-          "id": "folk-og-dolgar-i-kardamummubynum-213597",
-          "title": "Fólk og dólgar í Kardumummubýnum 5.partu",
-          "media": "a_2201-5_SITE01",
-          "created": "2026",
-          "sourcePage": "https://kvf.fo/vit/sending/uv/folk-og-dolgar-i-kardamummubynum?sid=213597",
-          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/folk_og_dolgar_mynd_raett_raett_0.jpg",
-          "order": 5,
-          "published": "2026-09-22T18:17:00+01:00"
-        },
-        {
-          "id": "folk-og-dolgar-i-kardamummubynum-213598",
-          "title": "Fólk og dólgar í Kardumummubýnum 6.partur",
-          "media": "a_2202-5_SITE01",
-          "created": "2026",
-          "sourcePage": "https://kvf.fo/vit/sending/uv/folk-og-dolgar-i-kardamummubynum?sid=213598",
-          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/folk_og_dolgar_mynd_raett_raett_0.jpg",
-          "order": 6,
-          "published": "2026-09-23T18:20:00+01:00"
-        },
-        {
-          "id": "folk-og-dolgar-i-kardamummubynum-213600",
-          "title": "Fólk og dólgar í Kardumummubýnum 8.partur",
-          "media": "a_2204-5_SITE01",
-          "created": "2026",
-          "sourcePage": "https://kvf.fo/vit/sending/uv/folk-og-dolgar-i-kardamummubynum?sid=213600",
-          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/folk_og_dolgar_mynd_raett_raett_0.jpg",
-          "order": 7,
-          "published": "2026-09-25T18:20:00+01:00"
-        },
-        {
-          "id": "folk-og-dolgar-i-kardamummubynum-213601",
-          "title": "Fólk og dólgar í Kardumummubýnum 10.partur",
-          "media": "a_2206-5_SITE01",
-          "created": "2026",
-          "sourcePage": "https://kvf.fo/vit/sending/uv/folk-og-dolgar-i-kardamummubynum?sid=213601",
-          "image": "https://kvf.fo/sites/default/files/styles/podcastmyndir/public/folk_og_dolgar_mynd_raett_raett_0.jpg",
-          "order": 8,
-          "published": "2026-09-29T18:20:00+01:00"
+          "published": "2020-05-05T20:00:00+01:00"
         }
       ]
     }
